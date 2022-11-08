@@ -1,0 +1,23 @@
+{
+  "name": "test-practise-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asharanjith/Test-practise-Jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asharanjith/Test-practise-Jest/issues"
+  },
+  "homepage": "https://github.com/asharanjith/Test-practise-Jest#readme",
+  "devDependencies": {
+    "jest": "^29.3.0"
+  }
+}
